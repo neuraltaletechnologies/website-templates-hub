@@ -1,0 +1,14 @@
+{
+  "name": "@website-templates/shared",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "exports": {
+    "./components": "./components/index.js",
+    "./config": "./config/index.js",
+    "./styles": "./styles/index.js"
+  },
+  "peerDependencies": {
+    "react": "^19.0.0"
+  }
+}

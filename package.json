@@ -1,0 +1,17 @@
+{
+  "name": "website-templates-hub",
+  "version": "1.0.0",
+  "private": true,
+  "workspaces": [
+    "apps/*",
+    "shared"
+  ],
+  "scripts": {
+    "dev:hub": "npm run dev -w demo-hub",
+    "dev:business": "npm run dev -w business-corporate-template",
+    "lint:hub": "npm run lint -w demo-hub",
+    "lint:business": "npm run lint -w business-corporate-template",
+    "build:hub": "npm run build -w demo-hub",
+    "build:business": "npm run build -w business-corporate-template"
+  }
+}

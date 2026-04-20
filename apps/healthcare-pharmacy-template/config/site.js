@@ -1,6 +1,6 @@
 const siteConfig = {
-  businessName: "Healthcare pharmacy template",
-  tagline: "Let's grow your business together",
+  businessName: "Afya Pharmacy",
+  tagline: "Your health, our priority",
   phone: "+255 700 000 000",
   email: "hello@example.co.tz",
   primaryColor: "#0ea5e9",

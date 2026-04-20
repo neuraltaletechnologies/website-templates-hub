@@ -1,6 +1,6 @@
 const siteConfig = {
-  businessName: "Hotel booking template",
-  tagline: "Let's grow your business together",
+  businessName: "Serengeti View Hotel",
+  tagline: "Experience authentic Tanzanian hospitality",
   phone: "+255 700 000 000",
   email: "hello@example.co.tz",
   primaryColor: "#0ea5e9",

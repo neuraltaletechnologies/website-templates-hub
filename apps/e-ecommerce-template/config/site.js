@@ -1,6 +1,6 @@
 const siteConfig = {
-  businessName: "E ecommerce template",
-  tagline: "Let's grow your business together",
+  businessName: "Biashara Online",
+  tagline: "Shop quality products delivered to your door",
   phone: "+255 700 000 000",
   email: "hello@example.co.tz",
   primaryColor: "#0ea5e9",

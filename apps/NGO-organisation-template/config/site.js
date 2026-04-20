@@ -1,6 +1,6 @@
 const siteConfig = {
-  businessName: "NGO organisation template",
-  tagline: "Let's grow your business together",
+  businessName: "Hope Foundation Tanzania",
+  tagline: "Together for stronger communities",
   phone: "+255 700 000 000",
   email: "hello@example.co.tz",
   primaryColor: "#0ea5e9",

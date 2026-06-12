@@ -1,9 +1,9 @@
 {
-  "name": "my-project",
+  "name": "hotel-booking-template",
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "dev": "next dev",
+    "dev": "next dev -p 3009",
     "build": "next build",
     "start": "next start",
     "lint": "eslint ."
